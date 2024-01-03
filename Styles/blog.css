@@ -1,5 +1,7 @@
 div{ background-color: rgb(139, 19, 0);
     padding: 10px;
-    border: 10px;
+    border: 50px;
     border-radius:20px;
+    margin-bottom: 10px;
+    text-align: justify;
 }
